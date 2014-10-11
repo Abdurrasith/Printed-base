@@ -21,7 +21,7 @@ Horizontal holes in the supports are square because when printing big horizontal
 ## Parts list
 
 | Part                                                                | Quantity |
-| ------------------------------------------------------------------- | -------- |
+| ------------------------------------------------------------------- | -------- |
 | Base                                                                |        1 |
 | Top                                                                 |        1 |
 | Support left                                                        |        1 |
