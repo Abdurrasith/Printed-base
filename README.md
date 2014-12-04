@@ -1,10 +1,10 @@
 # Robopoly demonstration robot 3D printed base
 
-![Demonstration robot front](Images/demo_1.jpg)
-![Demonstration robot back](Images/demo_2.jpg)
-![Printed caster wheel](Images/demo_3.jpg)
+![Demonstration robot front](Images/assembled_2.jpg)
+![Demonstration robot back](Images/assembled_3.jpg)
+![Printed caster wheel](Images/assembled_7.jpg)
 
-The Robopoly demonstration robot is intended to serve as a modular base for demonstrations during [Robopoly lectures](#) to show off the robotics platform capabilities. It is modular, all important parts are accessible, has a small footprint and is made only using electronics from the [kit PRisme](#).
+The Robopoly demonstration robot is intended to serve as a modular base for demonstrations during [Robopoly lectures](http://robopoly.epfl.ch/demons) to show off the robotics platform capabilities. It is modular, all important parts are accessible, has a small footprint and is made only using electronics from the [kit PRisme](http://robopoly.epfl.ch/prisme).
 
 ## Design
 
@@ -12,7 +12,7 @@ Since the parts are intended to be printed with a 3D printer with fused filament
 
 The front of the robot can accomodate different modules depending on the task at hand. 4 holes for M3 screws can be used to attach a custom add-on.
 
-The center of the platform is empty, that space can be used to route electrical wires from the front of the robot to the [PRismino](#) or store some additional electronics.
+The center of the platform is empty, that space can be used to route electrical wires from the front of the robot to the [PRismino](https://github.com/Robopoly/PRismino) or store some additional electronics.
 
 The USB port is easely accessible for programming and all the electronics are on top of the robot allowing easy access.
 
@@ -30,6 +30,7 @@ Horizontal holes in the supports are square because when printing big horizontal
 | Caster roller                                                       |        1 |
 | Caster wheel                                                        |        1 |
 | Front                                                               |        1 |
+| Linear camera support                                               |        1 |
 | M3x8 countersunk head screw for motors                              |        4 |
 | M3x5 pan head screw for rear support                                |        2 |
 | M3x8 pan head screw for electronics, rear support and caster roller |        5 |
